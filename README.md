@@ -1,25 +1,45 @@
 # npm-i-error
 
 0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+
 1 info using npm@9.6.7
+
 2 info using node@v18.17.1
+
 3 timing npm:load:whichnode Completed in 3ms
+
 4 timing config:load:defaults Completed in 4ms
+
 5 timing config:load:file:C:\Program Files\nodejs\node_modules\npm\npmrc Completed in 2ms
+
 6 timing config:load:builtin Completed in 3ms
+
 7 timing config:load:cli Completed in 3ms
+
 8 timing config:load:env Completed in 2ms
+
 9 timing config:load:file:E:\extras\Work space\Upwork\Airbnb-clone-pablo-02\nextjs-airbnb-clone-starter\public\.npmrc Completed in 1ms
+
 10 timing config:load:project Completed in 1ms
+
 11 timing config:load:file:C:\Users\3TEE\.npmrc Completed in 0ms
+
 12 timing config:load:user Completed in 0ms
+
 13 timing config:load:file:E:\extras\Work space\Upwork\Airbnb-clone-pablo-02\nextjs-airbnb-clone-starter\public\etc\npmrc Completed in 0ms
+
 14 timing config:load:global Completed in 0ms
+
 15 timing config:load:setEnvs Completed in 2ms
+
 16 timing config:load Completed in 17ms
+
 17 timing npm:load:configload Completed in 17ms
+
 18 timing npm:load:mkdirpcache Completed in 0ms
+
 19 timing npm:load:mkdirplogs Completed in 0ms
+
 20 verbose title npm i
 21 verbose argv "i" "--prefix" "public"
 22 timing npm:load:setTitle Completed in 2ms
